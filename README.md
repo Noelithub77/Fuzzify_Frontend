@@ -1,3 +1,3 @@
-# Fuzzify
+# Fuzzify App
 
-Frontend protal to fuzzify's logic
+A flutter, Frontend protal to fuzzify's logic
